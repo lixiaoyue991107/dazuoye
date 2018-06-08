@@ -1,0 +1,366 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+ul,li,ol{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+/*顶部开始*/
+.ding{
+	width: 1200px;
+	height: 30px;
+	margin: 0 auto;
+	font-size: 12px;
+	padding-top: 10px;
+}
+.dingone{
+	float: left;
+}
+.dingone li{
+	float: left;
+	padding-right: 15px;
+}
+.dingone1{
+	background: url(../img/qq.png) no-repeat left center;
+	padding-left: 15px;
+}
+.dingtwo{
+	float: right;
+}
+.dingtwo li{
+	float: right;
+}
+.red{
+	color: red;
+}
+.dingtwo2{
+	padding-right: 5px;
+	padding-left: 15px;
+}
+/*头部开始*/
+.tou{
+	width: 1200px;
+	height: 117px;
+	margin: 0 auto;
+}
+.logo{
+	float: left;
+	padding-top: 20px;
+}
+.kuang{
+	width: 405px;
+	height: 36px;
+	border-width: 2px;
+	border-color: red red;
+	float: left;
+	margin-top: 40px;
+	margin-left: 200px;
+	color: #dddddd;
+}
+input{
+	outline: none;
+}
+.tupian1{
+	float: left;
+	margin-top: 40px;
+}
+.tupian2 img{
+	float: left;
+	margin-left: 50px;
+	margin-right: 10px;
+}
+.tupian3{
+	width: 150px;
+	height: 40px;
+	background: url(../img/gouwuche.png) no-repeat right center;
+	float: right;
+	margin-right: 10px;
+	margin-top: 40px;
+}
+.tupian3 p{
+	float: right;
+	padding-top: 10px;
+	padding-right: 18px;
+}
+/*导航开始*/
+.nav{
+	width: 1155px;
+	height: 40px;
+	margin: 0 auto;
+}
+.navfirst{
+	float: left;
+	margin-right: 70px;
+	width: 90px;
+	height: 20px;
+	border-radius: 4px;
+	background-color: red;
+	text-align: center;
+}
+.nav ul li{
+	margin-right: 70px;
+	float: left;
+	margin-top: 12px;
+}
+/*主体部分*/
+.main{
+	width: 1200px;
+	height: 960px;
+	margin: 0 auto;
+}
+.left{
+	width: 210px;
+	height: 960px;
+	float: left;
+}
+.left1{
+	width: 210px;
+	height: 80px;
+}
+.biao1{
+	float: left;
+	padding-left: 13px;
+	padding-right: 15px;
+}
+.left2{
+	width: 195px;
+	height: 35px;
+	background-color: #f5f5f5;
+	margin-bottom: 10px;
+	margin-right: 15px;
+}
+.left3{
+	width: 195px;
+	height: 300px;
+	background-color: #f5f5f5;
+	margin-right: 15px;
+}
+.left3 li{
+	padding-left: 40px;
+	padding-bottom: 25px;
+}
+.biao2{
+	float: left;
+	padding-left: 13px;
+	padding-right: 15px;
+}
+.left4{
+	width: 195px;
+	height: 35px;
+	background-color: #f5f5f5;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 15px;
+}
+.left5{
+	width: 195px;
+	height: 300px;
+	background-color: #f5f5f5;
+	margin-right: 15px;
+}
+.left5 li{
+	padding-left: 40px;
+	padding-bottom: 25px;
+}
+.biao3{
+	float: left;
+	padding-left: 20px;
+	padding-right: 15px;
+}
+.left6{
+	width: 195px;
+	height: 35px;
+	background-color: #ff3545;
+	margin-top: 15px;
+	font-size: 18px;
+	margin-right: 15px;
+}
+.ti{
+	width: 990px;
+	height: 960px;
+	float: right;
+}
+.ti1{
+	width: 990px;
+	height: 50px;
+	text-align: center;
+	margin-top: 80px;
+}
+.ti1 p{
+	padding-top: 15px;
+	font-size: 16px;
+	background-color: #f5f5f5;
+}
+.ti2{
+	width: 990px;
+	height: 35px;
+	padding-top: 65px;
+}
+.ti21{
+	height: 35px;
+	width: 193px;
+	background-color: #ff3545;
+	border-radius: 4px;
+	float: left;
+	margin-left: 205px;
+	text-align: center;
+}
+.ti21 p{
+	font-size: 14px;
+	padding-top: 10px;
+}
+.ti22{
+	height: 35px;
+	width: 193px;
+	background-color: #ff3545;
+	border-radius: 4px;
+	float: right;
+	margin-right: 205px;
+	text-align: center;
+}
+.ti22 p{
+	font-size: 14px;
+	padding-top: 10px;
+}
+.ti3{
+	width: 990px;
+	height: 50px;
+	text-align: center;
+	margin-top: 80px;
+}
+.ti3 p{
+	padding-top: 15px;
+	font-size: 16px;
+	background-color: #f5f5f5;
+}
+.ti4{
+	width: 990px;
+	height: 35px;
+	padding-top: 65px;
+}
+.ti41{
+	height: 35px;
+	width: 193px;
+	background-color: #ff3545;
+	border-radius: 4px;
+	float: left;
+	margin-left: 205px;
+	text-align: center;
+}
+.ti41 p{
+	font-size: 14px;
+	padding-top: 10px;
+}
+.ti5{
+	width: 990px;
+	height: 50px;
+	text-align: center;
+	margin-top: 80px;
+}
+.ti5 p{
+	padding-top: 15px;
+	font-size: 16px;
+	background-color: #f5f5f5;
+}
+.ti6{
+	width: 990px;
+	height: 35px;
+	padding-top: 65px;
+}
+.ti61{
+	height: 35px;
+	width: 193px;
+	background-color: #ff3545;
+	border-radius: 4px;
+	float: left;
+	margin-left: 205px;
+	text-align: center;
+}
+.ti61 p{
+	font-size: 14px;
+	padding-top: 10px;
+}
+/*优点部分*/
+.good{
+	width: 100%;
+	height: 86px;
+	background-color: red;
+}
+.good1{
+	width: 138px;
+	padding-left: 150px;
+	float: left;
+	padding-right: 160px;
+	padding-top: 10px;
+}
+.goodtu{
+	float: left;
+}
+.goodzi{
+	float: left;
+	padding-left: 15px;
+	padding-top: 25px;
+}
+.good2{
+	float: left;
+	padding-right: 165px;
+	padding-top: 10px;
+}
+.good3{
+	padding-top: 10px;
+}
+/*底部开始*/
+.di{
+	width: 100%;
+	height: 245px;
+	background-color: #2e2e2e;
+}
+.dibuzong{
+	width: 1200px;
+	height: 245px;
+	margin: 0 auto;
+	color: #cacaca;
+}
+.dione{
+	height: 150px;
+}
+.dione ul{
+	float: left;
+}
+.you{
+		padding-right: 195px;
+}
+.youone{
+	padding-left: 8px;
+	padding-right: 200px;
+}
+.xiao{
+	font-size: 14px;
+}
+.dione ul li{
+	padding-top: 20px;
+}
+.ditwo{
+	width: 560px;
+	height: 95px;
+	margin: 0 auto;
+}
+.ditwo ul li{
+	float: left;
+	padding-left: 10px;
+	padding-top: 25px;
+	background: url(../img/lastline.png) no-repeat right 25px;
+	padding-right: 10px;
+	font-size: 14px;
+	padding-bottom: 20px;
+}
+.ditwo li:last-child{
+	background: none;
+	padding-right: 0px;
+}
+.ditwo p{
+	font-size: 14px;
+}
