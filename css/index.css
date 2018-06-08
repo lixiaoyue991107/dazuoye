@@ -207,14 +207,15 @@ input{
 }
 .good{
 	width: 100%;
-	height: 75px;
+	height: 86px;
 	background-color: red;
 }
 .good1{
 	width: 138px;
-	padding-left: 350px;
+	padding-left: 150px;
 	float: left;
-	padding-right: 205px;
+	padding-right: 160px;
+	padding-top: 10px;
 }
 .goodtu{
 	float: left;
@@ -226,7 +227,11 @@ input{
 }
 .good2{
 	float: left;
-	padding-right: 185px;
+	padding-right: 165px;
+	padding-top: 10px;
+}
+.good3{
+	padding-top: 10px;
 }
 /*底部开始*/
 .di{
