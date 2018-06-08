@@ -210,11 +210,16 @@ input{
 	height: 86px;
 	background-color: red;
 }
+.good{
+	width: 100%;
+	height: 86px;
+	background-color: red;
+}
 .good1{
 	width: 138px;
-	padding-left: 150px;
+	padding-left: 240px;
 	float: left;
-	padding-right: 160px;
+	padding-right: 180px;
 	padding-top: 10px;
 }
 .goodtu{
