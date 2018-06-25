@@ -105,6 +105,19 @@ input{
 	float: left;
 	margin-top: 12px;
 }
+.nav li:hover{
+	background-color: #fd0304;
+	border-radius: 4px;
+	color:#ffffff;
+}
+.nav a:hover{
+	color:#ffffff;
+	background-color: #fd0304;
+	border-radius: 4px;
+}
+.nav a{
+	color:#333333;
+}
 /*主体部分*/
 .main{
 	width: 1200px;
