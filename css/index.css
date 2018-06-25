@@ -108,6 +108,19 @@ input{
 	background-color: red;
 	text-align: center;
 }
+.nav li:hover{
+	background-color: #fd0304;
+	border-radius: 4px;
+	color:#ffffff;
+}
+.nav a:hover{
+	color:#ffffff;
+	background-color: #fd0304;
+	border-radius: 4px;
+}
+.nav a{
+	color:#333333;
+}
 /*大图*/
 .datu{
 	width: 100%;
