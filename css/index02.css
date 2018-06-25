@@ -1,0 +1,297 @@
+*{
+	padding:0;margin:0;
+}
+ul,li,ol{
+	list-style:none;
+}
+a{
+	text-decoration:none;
+}
+.heade{
+	width:1200px;
+	height:30px;
+	background-color:#f4f4f4;
+	margin:0 auto;
+}
+.heade0{
+	float:left;
+}
+.heade0 li{
+	font-size:12px;
+	color:#797979;
+	line-height:30px;
+	float:left;
+	margin-right:11px;
+}
+.heade0 li:last-child{
+	color:#878787;
+}
+.heade1{
+	float:right;
+}
+.heade1 li{
+	font-size:10px;
+	color:#797979;
+	line-height:30px;
+	float:left;
+	margin-right:11px;
+}
+.two{
+	width:1200px;
+	height:117px;
+	margin:0 auto;
+}
+.two0{
+	width:215px;
+	margin-right:165px;
+	float:left;
+}
+.two1{
+	width:500px;
+	line-height:117px;
+	margin-right:68px;
+	color:#d4d4d4;
+	float:left;
+}
+.two1 input:first-child{
+	float:left;
+	width:406px;
+	height:38px;
+	border:2px solid #f83838;
+	font-size:14px;
+	color:#d8d8d8;
+	position:relative;
+	top:41px;
+}
+
+.two1 input:last-child{
+	width:90px;
+	height:39px;
+	font-size:16px;
+	background-color:#d83838;
+	color:#ffffff;
+	float:left;
+	position:relative;
+	left:406px;
+}
+.two2{
+	width:83px;
+	float:top;
+	margin-right:13px;
+	float:left;
+}
+.two3{
+	margin-top:39px;
+	width:150px;
+	height:40px;
+	background-color:#f5f5f5;
+	float:left;
+}
+.three{
+	height:40px;
+	margin-left:170px;
+	position:relative;
+	right:380px;
+}	
+.three li{
+	font-size:16px;
+	color:#cbcbcb;
+	margin-right:85px;
+	line-height:40px;
+	float:left;
+}
+.four{
+	height:463px;
+	background:url(../img/06.png) no-repeat center
+}
+.five{
+	width:1200px;
+	margin:0 auto;
+	height:60px;
+}
+.five li{
+	margin-bottom:5px;
+	margin-top:35px;
+	font-size:14px;
+	color:#5c5c5c;
+	float:left;
+}
+.five li:last-child{
+	float:right;
+}
+.six{
+	width:1200px;
+	margin:0 auto;
+	height:295px;
+}
+.six ul{
+	margin-top:50px;
+	text-align:center;
+	list-style-type: none;
+}
+.six ul li{
+	width:300px;
+	height:245px;
+	float:left;
+	margin:0 auto;
+}
+.six ul li p{
+	margin-top:25px;
+	width:160px;
+	height:40px;
+	background:#ff4b4c;
+	font-size:17.88px;
+	color:#fbfbfb;
+	line-height:40px;
+	text-align:center;
+	margin:0 auto;
+	border-radius:5px
+}
+.six ul li p a{
+	font-size:17.88px;
+	color:#fbfbfb;
+	display: block;
+	text-align: center;
+	text-decoration: none;
+}
+.six ul li a:hover{
+	font-weight: bold;
+	color: #F60;
+	background: #93B6FF;
+}
+.six ul li a:hover {
+	font-weight: bold;
+	color: #F60;
+	background: #93B6FF;
+}
+.six ul li ul {
+	display: none;
+	margin: 0px;
+	width: 105px;
+}
+.six ul li:hover ul {
+	display:block;
+	position:relative;
+	left: 250px;
+	top:-180px;
+}
+.six ul li:hover ul li{
+	background:#ffffff;
+}
+.six ul li:hover ul li a {
+	width:340px;
+	height:436px;
+	border:10px solid #ffffff;
+	font-size: 12px;
+}
+.six ul li:hover ul li a:hover {
+	background-color: #86ADFF;
+	color: #000066;
+}
+.six ul li:hover ul li a img{
+	float:left;
+}
+.six ul li:hover ul li a h1{
+	font-size:21.1px;
+	margin-bottom:24px;
+	color:#c9c9c9;
+}
+.six ul li:hover ul li a h2{
+	font-size:13px;
+	color:#c9c9c9;
+	line-height:30px;
+}
+.six ul li:hover ul li a h3{
+	width:320px;
+	height:40px;
+	background:#ff4b4c;
+	font-size:17.88px;
+	color:#fbfbfb;
+	line-height:40px;
+	text-align:center;
+	margin:0 auto;
+	border-radius:5px
+}
+.zhongjian{
+	width:450px;
+	margin-top:115px;
+	margin:0 auto;
+}
+.zhongjian input{
+	border:1px solid #b8b8b8;
+	padding:10px;
+	font-size:18px;
+	color:#b8b8b8;
+	margin-left:17px;
+}
+.seven{
+	height:85px;
+	margin-top:54px;
+	background-color:#f83838;
+}
+.seven1{
+	width:1200px;
+	margin:0 auto;
+	height:85px;
+	line-height:85px;
+}
+.seven1 ul{
+	width:1200px;
+	height:85px;
+	line-height:85px;
+}
+.seven1 ul li{
+	width:300px;
+	height:85px;
+	line-height:85px;
+	float:left;
+	font-size:18px;
+	color:#ffffff;
+}
+.seven1 ul li img{
+	margin-top:20px;
+}
+.eight{
+	height:280px;
+	background:#2e2e2e;
+}
+.eight0{
+	width:1200px;
+	height:165px;
+	margin:0 auto;
+	border-bottom:1px solid #454545;
+}
+.eight0 ul{
+	width:240px;
+	float:left;
+}
+.eight0 ul li:first-child{
+	margin-top:20px;
+	margin-bottom:20px;
+	font-size:16px;
+	color:#f5f5f5;
+}
+.eight0 ul li{
+	font-size:14px;
+	margin-bottom:15px;
+	color:#f5f5f5;
+}
+.eight1{
+	height:45px;
+	width:600px;
+	margin:0 auto;
+}
+.eight1 li{
+	margin-top:25px;
+	float:left;
+	font-size:14px;
+	color:#9e9e9e;
+}
+.eight2{
+	height:17px;
+	width:600px;
+	margin:0 auto;
+	font-size:14px;
+	color:#9e9e9e;
+	
+}
