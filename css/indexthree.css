@@ -93,7 +93,6 @@ input{
 }
 .navfirst{
 	float: left;
-	padding-left: 25px;
 	margin-right: 70px;
 }
 .nav ul li{
@@ -101,12 +100,18 @@ input{
 	float: left;
 	margin-top: 12px;
 }
-.navsec{
-	width: 90px;
-	height: 20px;
+.nav li:hover{
+	background-color: #fd0304;
 	border-radius: 4px;
-	background-color: red;
-	text-align: center;
+	color:#ffffff;
+}
+.nav a:hover{
+	color:#ffffff;
+	background-color: #fd0304;
+	border-radius: 4px;
+}
+.nav a{
+	color:#333333;
 }
 /*横线*/
 .line{
