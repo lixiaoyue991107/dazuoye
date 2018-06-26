@@ -241,7 +241,8 @@ input{
 	float: left;
 	padding-left: 15px;
 	padding-top: 25px;
-	
+	color: #ffffff;
+	font-size: 20px;
 }
 .good2{
 	float: left;
